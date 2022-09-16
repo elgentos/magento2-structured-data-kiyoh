@@ -1,0 +1,25 @@
+{
+    "name": "elgentos/magento2-structured-data-kiyoh",
+    "description": "Implement structured data for Kiyoh in Magento.",
+    "type": "magento2-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "elgentos ecommerce",
+            "email": "info@elgentos.nl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.4|^8.1"
+    },
+    "repositories": {
+        "magento": {
+            "type": "composer",
+            "url": "https://repo.magento.com"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+}
