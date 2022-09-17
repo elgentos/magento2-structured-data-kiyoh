@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<!--
+/**
+ * Copyright Elgentos. All rights reserved.
+ * https://www.elgentos.nl
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Elgentos_StructuredDataKiyoh">
+        <sequence>
+            <module name="Elgentos_StructuredData"/>
+            <module name="Elgentos_Kiyoh"/>
+        </sequence>
+    </module>
+</config>
