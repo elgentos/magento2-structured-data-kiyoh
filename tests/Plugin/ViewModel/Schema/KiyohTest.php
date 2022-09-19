@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Copyright Youwe. All rights reserved.
- * https://www.youweagency.com
+ * Copyright Elgentos. All rights reserved.
+ * https://elgentos.nl
  */
 
 declare(strict_types=1);
